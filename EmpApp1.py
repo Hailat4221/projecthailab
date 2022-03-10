@@ -1,0 +1,6 @@
+customhost = "hailabfinal-1.cahi4omsmn1g.us-east-2.rds.amazonaws.com"
+customuser = "customuser"
+custompass = "hailab1221"
+customdb = "employee"
+custombucket = "hailabproject"
+customregion = "us-east-2"
